@@ -1,6 +1,6 @@
 SlidingMenu
 ===========
-
+ //test
 SlidingMenu like Facebook and Path 2.0,This is an original component demo, does not rely on any third-party lib library, anyone who like it can download！
 这是一个原创的组件demo,不依赖任何第三方lib库,喜欢的同学可以自行下载。
 
