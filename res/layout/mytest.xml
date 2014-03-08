@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.changhong.mscreensynergy.test.MyScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:background="#00ff00"
+        android:layout_height="match_parent">
+
+    <com.changhong.mscreensynergy.test.MyLineLayout
+            android:layout_width="match_parent"
+            android:background="#ff0000"
+            android:layout_height="match_parent">
+        <com.changhong.mscreensynergy.test.MyTextview
+                android:layout_width="match_parent"
+                android:background="#ffffff"
+                android:layout_height="wrap_content"
+                android:text="touch me"/>
+        <TextView android:layout_width="match_parent"
+                  android:text="touch me"
+                  android:layout_height="300dp"/>
+    </com.changhong.mscreensynergy.test.MyLineLayout>
+</com.changhong.mscreensynergy.test.MyScrollView>
